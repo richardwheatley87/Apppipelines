@@ -1,3 +1,4 @@
+[![Build Status](https://richardwheatley.visualstudio.com/app-pipelines/_apis/build/status/richardwheatley87.Apppipelines?branchName=master)](https://richardwheatley.visualstudio.com/app-pipelines/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
